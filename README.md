@@ -7,4 +7,4 @@ $ python ./videoface.py
 
 ## Example result
 
-![alt text](https://github.com/onjin/videoface/raw/master/src/fake_face.png "Fake Face")
+![Fake face](https://github.com/onjin/videoface/raw/master/fake_face.png)
