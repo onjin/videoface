@@ -1,7 +1,7 @@
 # Fun with opencv face detector using PC camera
 
 ```
- $ pip install requirements.txt
+ $ pip install -r requirements.txt
  $ python ./videoface.py
 ```
 
